@@ -15,3 +15,4 @@ create link
 copy html
 move files
 delete all files
+create directories
