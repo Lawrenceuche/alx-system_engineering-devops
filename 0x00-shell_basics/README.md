@@ -16,3 +16,4 @@ copy html
 move files
 delete all files
 create directories
+commas
