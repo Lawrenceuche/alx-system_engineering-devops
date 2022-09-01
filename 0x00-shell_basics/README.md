@@ -10,3 +10,4 @@ delete the file
 delete the directory
 change working directory
 list all files
+print the type
