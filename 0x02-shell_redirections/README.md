@@ -16,3 +16,4 @@ It mustbe in that file
 Count that word
 What's next?
 I hate bins
+Letters only please
