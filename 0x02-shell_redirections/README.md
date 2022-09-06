@@ -8,3 +8,4 @@ It is a good file that cuts iron without making a noise
 Save current state of directory
 Duplicate last line*>> README.md
 echo Duplicate last line*
+No more javascript
