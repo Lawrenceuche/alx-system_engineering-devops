@@ -10,3 +10,4 @@ Duplicate last line*>> README.md
 echo Duplicate last line*
 No more javascript
 Don't just count your directories, make your directories count
+What's new
