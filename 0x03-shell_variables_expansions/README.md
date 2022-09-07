@@ -5,3 +5,4 @@ If the path be beautiful, let us ask where it leads
 Global variables
 Local variables
 Local variable
+Global variable
