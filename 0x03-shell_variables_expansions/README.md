@@ -2,3 +2,4 @@
 Hello you
 The path to success is to take massive, determined action
 If the path be beautiful, let us ask where it leads
+Global variables
